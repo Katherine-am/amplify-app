@@ -1,9 +1,15 @@
 import React from 'react';
+import Card from '../Molecules/Card';
 
-function Main(){
+function Main() {
     return(
         <div>
-            <p>Main</p>
+            <p>Sift & Flood</p>
+            <div>
+                <Card />
+                <Card />
+                <Card />
+            </div>
         </div>
     )
 }

@@ -1,15 +1,15 @@
 import React from 'react';
 import Button from '../Atoms/Button';
-import Search from '../Atoms/Search';
 
-function Header() {
+function Card() {
+    
+    //figure out how to properly pass style or style card
     return(
         <div>
-            <p>Header</p>
+            <p>Card</p>
             <Button />
-            <Search />
         </div>
     )
 }
 
-export default Header;
+export default Card;
