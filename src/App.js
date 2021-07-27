@@ -1,13 +1,14 @@
-import logo from './logo.svg';
 import './App.css';
+import './Components/Organisms/Header';
+import './Components/Organisms/Main';
+import './Components/Organisms/Footer';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>checking continuous deployment</p>
-      </header>
+    <div>
+      <Header />
+      <Main />
+      <Footer />
     </div>
   );
 }
