@@ -8,9 +8,10 @@ import Footer from './components/Organisms/Footer';
 function App() {
   return (
     <div>
-      <Header />
+      {/* <Header />
       <Main />
-      <Footer />
+      <Footer /> */}
+      <p>checking for updates without calling folder structure</p>
     </div>
   );
 }
