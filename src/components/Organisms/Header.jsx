@@ -5,8 +5,7 @@ import Search from '../Atoms/Search';
 
 function Header() {
     return(
-        <div>
-            <p>Header</p>
+        <div className="header">
             <Button />
             <Search />
         </div>

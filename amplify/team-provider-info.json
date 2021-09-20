@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-siftandflood-dev-120357-authRole",
+      "UnauthRoleArn": "arn:aws:iam::645163721741:role/amplify-siftandflood-dev-120357-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::645163721741:role/amplify-siftandflood-dev-120357-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-siftandflood-dev-120357-deployment",
+      "UnauthRoleName": "amplify-siftandflood-dev-120357-unauthRole",
+      "StackName": "amplify-siftandflood-dev-120357",
+      "StackId": "arn:aws:cloudformation:us-west-2:645163721741:stack/amplify-siftandflood-dev-120357/838f6080-1a45-11ec-80db-06c939e0aa2d",
+      "AmplifyAppId": "d1uqhz8egtitgl"
+    }
+  }
+}

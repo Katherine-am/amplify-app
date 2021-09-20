@@ -1,0 +1,6 @@
+@use "variables" as v;
+
+.header{
+    background-color: v.$grey;
+    display: flex;
+}
