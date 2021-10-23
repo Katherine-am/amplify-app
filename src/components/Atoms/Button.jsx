@@ -1,8 +1,10 @@
 import React from 'react';
 
-function Button({handleSubmit}){
+import '../../scss/components/_button.scss';
+
+function Button({label, size, color, handleSubmit}){
     return(
-        <button onSubmit={handleSubmit}>Button</button>
+        <button size={size} color={color} onSubmit={handleSubmit}>{label}</button>
     )
 }
 
